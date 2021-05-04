@@ -16,26 +16,17 @@ Las matrices que tengo son:
 
 * Blur
 
-$
-\left(
-\begin{array}{lllll}
-0 & 0 & 1 & 0 & 0 \\
-0 & 1 & 1 & 1 & 0 \\
-1 & 1 & 1 & 1 & 1 \\
-0 & 1 & 1 & 1 & 0 \\
-0 & 0 & 1 & 0 & 0
-\end{array}
-\right)
-$
+[ 0 0 1 0 0 ]
+[ 0 1 1 1 0 ]
+[ 1 1 1 1 1 ]
+[ 0 1 1 1 0 ]
+[ 0 0 1 0 0 ]
 
 ![img2](Muestras/D02.png)
 
 * MotionBlur
 
-$
-\left(
-\begin{array}{lllll}
-1 & 0 & 0 & 0 & 0 \\
+[ 1 0 0 0 0 ]
 0 & 1 & 0 & 0 & 0 \\
 0 & 0 & 1 & 0 & 0 \\
 0 & 0 & 0 & 1 & 0 \\
